@@ -12,7 +12,4 @@ In this a single animated bird picture is used which jump on tapping..<
 
 
 
-
-
-
-           ![bird](https://user-images.githubusercontent.com/105273927/185202386-c37f53c7-2645-4f8d-8384-      a6104324ccbb.png)
+![bird](https://user-images.githubusercontent.com/105273927/185202386-c37f53c7-2645-4f8d-8384-a6104324ccbb.png)
