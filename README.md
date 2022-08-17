@@ -10,6 +10,4 @@ It's just a simple game as we have already player known as Flappy Bird which is 
 
 In this a single animated bird picture is used which jump on tapping..<
 
-
-
-![flappybird](https://user-images.githubusercontent.com/105273927/185201675-aac1494e-cc46-4620-abce-5dedc938af6a.png)
+            [Uploading bird..png…]()
