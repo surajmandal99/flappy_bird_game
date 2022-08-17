@@ -4,11 +4,11 @@ A new Flutter Game project 👨‍💻
 
 ## Getting Started
 
-This project is a starting point for a Flutter Game.
+This project is a starting point for the Flutter Game.
 
-It's just a simple game as we have already player known as Flappy Bird which is implemnted with some analysis of the geometric  coordinates X and Y axis .
+It's just a simple game as we have already played known as Flappy Bird which is implemnted with some analysis of the geometric  coordinates X and Y axis .
 
-In this a single animated bird picture is used which jump on tapping..<
+In this a single animated bird picture is used which jump on tapping  ..<
 
 
 
